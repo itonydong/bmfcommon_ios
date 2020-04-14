@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'bmfcommon_ios'
-  s.version          = '1.0.4'
+  s.version          = '1.0.5'
   s.summary          = '百度地图ios flutter插件公共库'
 
 # This description is used to generate tags and improve search results.
